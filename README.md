@@ -1,0 +1,1 @@
+Este projeto simula um fluxo completo de sorteio de participantes e avaliação automática de pontuação. Ele demonstra como estruturar um código JavaScript de forma modular, onde diferentes funções colaboram para uma entrega final, incluindo a simulação de processos em tempo real.
